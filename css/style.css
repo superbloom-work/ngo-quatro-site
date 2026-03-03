@@ -1239,3 +1239,4 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   transition: color 0.3s;
 }
 .article-nav a:hover { color: var(--dark); }
+.article-nav a svg { width: 14px; height: 14px; flex-shrink: 0; }
